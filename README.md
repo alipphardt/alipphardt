@@ -16,4 +16,4 @@ Over 11 years of experience applying concepts of computer science as a web devel
 
 # [Data Science Portfolio](https://alipphardt.github.io)
 
-![collage of work from portfolio](collage.png)
+[![collage of work from portfolio](collage.png)](https://alipphardt.github.io)
