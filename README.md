@@ -1,4 +1,3 @@
-# Anthony Lipphardt
 Health communications specialist with the CDC's National Center for Health Statistics, combining specializations in data science and database systems to provide meaningful and actionable data-driven insights and efficient IT systems.
 
 # Summary of Experience
@@ -15,4 +14,6 @@ Over 11 years of experience applying concepts of computer science as a web devel
 * Section 508 compliance testing tools: Adobe Acrobat, JAWS, ZoomText, CommonLook
 
 
-## [Data Science Portfolio, hosted by GitHub](https://alipphardt.github.io)
+# [Data Science Portfolio](https://alipphardt.github.io)
+
+![collage of work from portfolio](collage.png)
